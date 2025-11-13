@@ -1,7 +1,7 @@
-import tkinter as tk  # برای ساخت رابط گرافیکی
-from tkinter import messagebox, simpledialog  # برای نمایش پیام و دریافت ورودی
-import math  # برای محاسبات ریاضی
-import time  # برای محاسبه زمان بازی
+import tkinter as tk
+from tkinter import messagebox, simpledialog
+import math
+import time
 
 class TicTacToeGUI:
     def __init__(self, master):
